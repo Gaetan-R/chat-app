@@ -22,7 +22,7 @@ function App() {
 
       <Contact
       name="Son Goku"
-      avatar="https://cdn.dribbble.com/users/81809/screenshots/3347540/gokussj.jpg?compress=1&resize=400x300"
+      avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_jI7ovD2ZRr8F0pEqjWqXnzjOZxwzG5I-A&usqp=CAU"
       online="online"
       />
     </div>
