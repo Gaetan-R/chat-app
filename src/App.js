@@ -1,10 +1,13 @@
 import React from 'react';
 import Contact from './components/Contact';
+import ContactList from './components/ContactList';
 
 
 function App() {
   return (
     <div className="App">
+<ContactList/>
+
       <Contact
       name="Dean Sims"
       avatar="https://randomuser.me/api/portraits/men/88.jpg"
@@ -19,7 +22,7 @@ function App() {
 
       <Contact
       name="Son Goku"
-      avatar="https://lh3.googleusercontent.com/proxy/o2rVLi3Qydg5mlFQJtI1ZRbT7nNAXIXMWkQYqIjWaUsQ68OZXxwnKF90P-qRuqGvQepUJTtI-P92AW7Kk48hSSGKct2nviwhJgAppJ14Zf65L02VegLdM9-iu3-nSOfFOVorMuQ63lIEfCT2AbI41o_I7Hj1IH3x"
+      avatar="https://cdn.dribbble.com/users/81809/screenshots/3347540/gokussj.jpg?compress=1&resize=400x300"
       online="online"
       />
     </div>
